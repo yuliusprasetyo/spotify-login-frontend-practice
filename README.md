@@ -1,14 +1,16 @@
 # 🎵 Spotify Login Page Clone
 
-Project ini merupakan **clone halaman login Spotify** yang dibuat dengan tujuan **belajar dan melatih kemampuan frontend web development**.
+This project is a **Spotify Login Page clone** created for **learning frontend web development**.
 
-Fokus utama project ini adalah pada:
-- Struktur HTML yang rapi
-- Styling dengan CSS agar mirip tampilan asli
-- Responsivitas tampilan di berbagai ukuran layar
-- Praktik UI/UX dasar
+The purpose of this project is to practice:
+- HTML structure
+- CSS styling
+- Responsive layout
+- UI slicing from real-world designs
 
-> ⚠️ **Disclaimer**: Project ini hanya untuk **keperluan pembelajaran**, tidak digunakan untuk tujuan komersial dan tidak terafiliasi dengan Spotify.
+> ⚠️ **Disclaimer**  
+> This project is made **for educational purposes only**.  
+> It is not affiliated with, endorsed by, or connected to Spotify.
 
 ---
 
@@ -16,21 +18,37 @@ Fokus utama project ini adalah pada:
 - **HTML5**
 - **CSS3**
 - **Google Fonts**
-- **Font Awesome**
+- **Font Awesome** (via `all.min.css`)
 
 ---
 
-## ✨ Fitur
-- Tampilan login mirip Spotify
-- Input email/username dan password
-- Tombol login
+## ✨ Features
+- Spotify-style login page UI
+- Email/Username and Password input fields
+- Login button
+- Clean and simple UI
 - Responsive layout (mobile & desktop)
 
 ---
 
-## 📚 Tujuan Pembelajaran
-Project ini dibuat untuk:
-- Memahami struktur layout halaman login
-- Meningkatkan kemampuan styling CSS
-- Membiasakan diri dengan slicing UI dari desain asli
-- Membangun portofolio frontend
+## 📚 Project Purpose
+This project was built to:
+- Understand the structure of a login page
+- Improve CSS styling skills
+- Practice responsive web design
+- Learn UI slicing from real websites
+- Build a beginner-friendly frontend portfolio project
+
+---
+
+## 📂 Folder Structure
+```bash
+Project/
+│
+├── Css/
+│   ├── all.min.css
+│   └── style.css
+│
+├── Login.html
+├── .gitattributes
+└── README.md
